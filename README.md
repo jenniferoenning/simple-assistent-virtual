@@ -10,3 +10,7 @@ pip install requests
 pip3 install noty
 pip install translate
 ```
+## How use
+```
+python assistente.py
+```
